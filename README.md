@@ -1,8 +1,8 @@
 # practice-parkisons-dataset
 
-## 3/10/25
+# 3/10/25
 
-# Tasks for today
+## Tasks for today
 
 Adiya: Understanding the dataset by Wednesday. Go through descriptions on Kaggle
 
